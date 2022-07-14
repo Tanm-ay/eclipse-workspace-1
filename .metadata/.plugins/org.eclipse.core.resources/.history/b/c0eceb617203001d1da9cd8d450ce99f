@@ -1,0 +1,9 @@
+18:10:56.256 [main] INFO  com.mindtree.utilities.BaseClass - System property set. Driver initialized
+18:11:00.420 [main] DEBUG com.mindtree.utilities.BaseClass - Navigated to https://www.bbc.com/
+18:11:01.494 [main] ERROR com.mindtree.utilities.BaseClass - Failed to click Privacy Policy link. Link not found
+18:11:06.317 [main] INFO  com.mindtree.utilities.BaseClass - System property set. Driver initialized
+18:11:16.980 [main] DEBUG com.mindtree.utilities.BaseClass - Navigated to https://www.bbc.com/
+18:11:17.892 [main] ERROR com.mindtree.utilities.BaseClass - Could not click Travel link
+18:11:18.894 [main] INFO  com.mindtree.utilities.BaseClass - System property set. Driver initialized
+18:11:38.540 [main] DEBUG com.mindtree.utilities.BaseClass - Navigated to https://www.bbc.com/
+18:11:40.544 [main] ERROR com.mindtree.utilities.BaseClass - Search box not found

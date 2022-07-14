@@ -1,0 +1,12 @@
+18:09:09.691 [main] INFO  com.mindtree.utilities.BaseClass - System property set. Driver initialized
+18:09:13.269 [main] DEBUG com.mindtree.utilities.BaseClass - Navigated to https://www.bbc.com/
+18:09:13.994 [main] ERROR com.mindtree.utilities.BaseClass - Failed to click Privacy Policy link. Link not found
+18:09:15.513 [main] INFO  com.mindtree.utilities.BaseClass - System property set. Driver initialized
+18:09:25.164 [main] DEBUG com.mindtree.utilities.BaseClass - Navigated to https://www.bbc.com/
+18:09:25.305 [main] INFO  com.mindtree.utilities.BaseClass - Clicked Travel link
+18:09:59.669 [main] ERROR com.mindtree.utilities.BaseClass - TC1 Fail. String NOT matched.
+
+18:10:00.891 [main] INFO  com.mindtree.utilities.BaseClass - System property set. Driver initialized
+18:10:26.381 [main] DEBUG com.mindtree.utilities.BaseClass - Navigated to https://www.bbc.com/
+18:10:26.495 [main] INFO  com.mindtree.utilities.BaseClass - Clicked search box
+18:10:29.200 [main] ERROR com.mindtree.utilities.BaseClass - Search Page Search box not found

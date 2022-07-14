@@ -1,0 +1,3 @@
+11:37:34.293 [main] INFO  com.mindtree.utilities.BaseClass - System property set. Driver initialized
+11:37:57.971 [main] DEBUG com.mindtree.utilities.BaseClass - Navigated to https://www.bbc.com/
+11:38:00.405 [main] ERROR com.mindtree.utilities.BaseClass - Search box not found
